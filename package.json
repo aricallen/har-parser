@@ -1,5 +1,7 @@
 {
-  "name": "har-parser",
+  "name": "@aricallen/har-parser",
+  "author": "aricallen",
+  "license": "MIT",
   "version": "0.1.0",
   "description": "utility package for parsing har files into more digestible data structures",
   "repository": {
@@ -26,10 +28,5 @@
   },
   "dependencies": {
     "minimist": "^1.2.0"
-  },
-  "engines": {
-    "node": ">=10.4.1"
-  },
-  "author": "aricallen",
-  "license": "MIT"
+  }
 }

@@ -5,3 +5,4 @@ local/
 .vscode/
 yarn-error.log
 parsed-har.json
+.npmrc
