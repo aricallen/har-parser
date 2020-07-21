@@ -7,13 +7,13 @@
   "repository": {
     "url": "https://github.com/aricallen/har-parser"
   },
-  "main": "index.js",
+  "main": "./src/index.js",
   "bin": {
-    "harparser": "./index.js",
-    "har-parser": "./index.js"
+    "harparser": "./src/index.js",
+    "har-parser": "./src/index.js"
   },
   "scripts": {
-    "start": "node index.js"
+    "start": "node ./src/index.js"
   },
   "devDependencies": {
     "eslint": "^6.1.0",
